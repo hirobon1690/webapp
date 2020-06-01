@@ -1,0 +1,22 @@
+body{
+    font-family: 'M PLUS 1p', sans-serif;
+    -webkit-text-size-adjust: 100%;
+    text-align: center;
+}
+.image {
+    text-align: center;
+}
+
+a{
+    color: gray;
+}
+h1{
+    font-size: 300%;
+    font-weight: 800;
+    text-align: center;
+}
+
+h2{
+    font-size: 100%;
+    font-weight: 300;
+}
