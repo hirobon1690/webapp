@@ -3,6 +3,11 @@ body{
     -webkit-text-size-adjust: 100%;
     text-align: center;
 }
+
+div{
+    width: 15%;
+}
+
 .image {
     text-align: center;
 }

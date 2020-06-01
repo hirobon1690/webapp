@@ -7,6 +7,10 @@ body{
     text-align: center;
 }
 
+div{
+    width: 15%;
+}
+
 img {
     width: 80%;
 }
