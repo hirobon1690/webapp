@@ -7,6 +7,10 @@ body{
     text-align: center;
 }
 
+img{
+    width: 50%;
+}
+
 a{
     color: gray;
 }
